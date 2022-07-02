@@ -40,10 +40,8 @@ i learn much enough to play with bash i hope this journey that i take with this 
     - Some Help 
 <br>
 <br>
-<br>
-![image info](https://miro.medium.com/max/496/1*f7uGDZbiOloyZSM8C5bNMQ.png)
-<br>
-<br>
+
 <div align="center">
-<h3>Created By Love ❤️ Keep Learning For Future <h3>
+<img src="https://miro.medium.com/max/496/1*f7uGDZbiOloyZSM8C5bNMQ.png">
+    <h3>Created By Love ❤️ Keep Learning For Future <h3>
 </div>
