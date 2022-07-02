@@ -41,7 +41,7 @@ i learn much enough to play with bash i hope this journey that i take with this 
 <br>
 <br>
 <br>
-<image src="https://medium.com/@smohajer85/bash-scripts-101-ae6d75e5fd35">
+![image info](https://miro.medium.com/max/496/1*f7uGDZbiOloyZSM8C5bNMQ.png)
 <br>
 <br>
 <div align="center">
