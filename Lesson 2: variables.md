@@ -345,7 +345,7 @@ echo "scale=2; 2.5 /2" | bc
 
 * Note: Exponentiation syntax is different: a ^ b rather than a ** b
 
---------------------- Lesson 7
+--------------------- 
 
 <a name="eight"></a>
 
@@ -408,7 +408,7 @@ cd ~-    # in second time you will go to the previous directory that you current
 
 ```
 
----------------------- Lesson 14
+---------------------- 
 
 <a name="nine"></a>
 
